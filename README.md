@@ -35,3 +35,5 @@ This project serves both educational and practical purposes. It helps learners u
 In conclusion, the Generative Text Model demonstrates the incredible capabilities of transformer-based models like GPT-2 in generating fluent, meaningful paragraphs from minimal user input. The project exemplifies how pre-trained models can be harnessed with just a few lines of code to perform complex language tasks—bringing the power of AI-generated content into the hands of developers, educators, and creatives alike.
 
 #output
+
+<img width="1920" height="874" alt="Image" src="https://github.com/user-attachments/assets/efef5806-18ec-48e9-8de8-ef984d51429d" />
